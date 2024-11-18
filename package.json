@@ -1,0 +1,22 @@
+{
+  "name": "threejstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "three": "^0.170.0",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/three": "^0.170.0",
+    "vite": "^5.4.11"
+  }
+}
